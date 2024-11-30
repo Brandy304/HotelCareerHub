@@ -1,0 +1,15 @@
+{
+    "watch": [
+        "routes/",
+        "models/",
+        "app.js"
+    ],
+    "ext": "js,json",
+    "ignore": [
+        "node_modules/",
+        "public/"
+    ],
+    "env": {
+        "NODE_ENV": "development"
+    }
+}
